@@ -7,6 +7,7 @@
   - IEC 61131-3
   - TextMate Grammars
   - Databases
+  - C++ on controllers
 - 🌱 I’m currently learning ...
   - Old tricks
 - 💞️ I’m looking to collaborate on ...
